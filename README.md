@@ -10,8 +10,9 @@ Saída
 Imprima a quantidade de litros necessária para realizar a viagem, com três dígitos após o ponto decimal
 
  
-Exemplo de Entrada	 Exemplo de Saída
-10 85                 70.833
+Exemplo de Entrada	 10 85  , 22 67  
+Exemplo de Saída   70.833,  122.833
+               
 
-22 67                122.833
+            
 
